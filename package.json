@@ -1,0 +1,6 @@
+{
+  "proxy": "http://localhost:5173",
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
